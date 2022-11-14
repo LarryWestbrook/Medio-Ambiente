@@ -18,7 +18,7 @@ Este proyecto se basa en hablar sobre el medioambiente y saber los riesgos que t
 # ¿Cómo podemos garantizar la protección del medio ambiente?
 
 ![image](https://user-images.githubusercontent.com/114906861/201604468-6d9df03a-e2f0-463a-a881-0c50108920bf.png)
-- [Proteccion medio ambiente]
+- [Proteccion medio ambiente](proteccion/proteccion.md)
 
 # `Referencias`
 
