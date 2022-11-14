@@ -1,6 +1,6 @@
 ## `Medio Ambiente`
 
-- [Contenidos](contenidos/contenidos.md)
+- [Contenidos](Contenidos/contenidos.md)
 # ¿Qué es la protección en el medio ambiente?
 ![image](https://user-images.githubusercontent.com/114906861/201603401-236b7891-d078-423f-b6a7-15a8047996f3.jpg)
 - [Proteccion Medioambiental](medioambiente/ambiente.md) 
