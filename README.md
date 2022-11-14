@@ -9,7 +9,7 @@ Este proyecto se basa en hablar sobre el medioambiente y saber los riesgos que t
 
 # ¿Cuáles son los riesgos ambientales?
 ![image](https://user-images.githubusercontent.com/114906861/201603673-9679fac0-39e1-4f10-bf9a-81f64e048313.jpg)
-- [Riesgos ambientales]
+- [Riesgos ambientales](riesgosambientales/riesgos.md)
 
 # ¿Cuáles son los objetivos de la protección del medio ambiente?
 ![image](https://user-images.githubusercontent.com/114906861/201603924-360b9997-7936-4169-be5e-06e8c769844e.jpg)
