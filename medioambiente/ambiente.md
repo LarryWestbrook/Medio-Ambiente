@@ -1,0 +1,1 @@
+La proteccion del medio ambiente devira de la conservacion ambiental par parte de las grandes organizaciones y gobiernos. Tambien las personas debemos de ayudar a conservar el medioambiente y evitar la contaminacion por parte de nosotros mismos.
