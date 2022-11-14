@@ -13,7 +13,7 @@ Este proyecto se basa en hablar sobre el medioambiente y saber los riesgos que t
 
 # ¿Cuáles son los objetivos de la protección del medio ambiente?
 ![image](https://user-images.githubusercontent.com/114906861/201603924-360b9997-7936-4169-be5e-06e8c769844e.jpg)
-- [Objetivos medio ambiente] 
+- [Objetivos medio ambiente](objetivos/objetivos.md) 
 
 # ¿Cómo podemos garantizar la protección del medio ambiente?
 
