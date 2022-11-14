@@ -12,7 +12,8 @@
 ![image](https://user-images.githubusercontent.com/114906861/201603924-360b9997-7936-4169-be5e-06e8c769844e.jpg)
 
 # ¿Cómo podemos garantizar la protección del medio ambiente?
-![image](https://user-images.githubusercontent.com/114906861/201604117-c7c097ed-f03e-4235-ae2b-2cfdbb74f011.jpg)
+
+![image](https://user-images.githubusercontent.com/114906861/201604468-6d9df03a-e2f0-463a-a881-0c50108920bf.png)
 
 
 # `Referencias`
