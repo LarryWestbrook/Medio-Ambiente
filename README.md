@@ -2,19 +2,20 @@
 
 # ¿Qué es la protección en el medio ambiente?
 ![image](https://user-images.githubusercontent.com/114906861/201603401-236b7891-d078-423f-b6a7-15a8047996f3.jpg)
-
+- [Proteccion Medioambiental] 
 
 # ¿Cuáles son los riesgos ambientales?
 ![image](https://user-images.githubusercontent.com/114906861/201603673-9679fac0-39e1-4f10-bf9a-81f64e048313.jpg)
-
+- [Riesgos ambientales]
 
 # ¿Cuáles son los objetivos de la protección del medio ambiente?
 ![image](https://user-images.githubusercontent.com/114906861/201603924-360b9997-7936-4169-be5e-06e8c769844e.jpg)
+- [Objetivos medio ambiente] 
 
 # ¿Cómo podemos garantizar la protección del medio ambiente?
 
 ![image](https://user-images.githubusercontent.com/114906861/201604468-6d9df03a-e2f0-463a-a881-0c50108920bf.png)
-
+- [Proteccion medio ambiente]
 
 # `Referencias`
 
