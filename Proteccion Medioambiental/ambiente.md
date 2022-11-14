@@ -1,0 +1,1 @@
+La proteccion del medio ambiente deriva en la conservación, prevención, reducción y eliminación de la contaminación y cualquier degradación del medio ambiente. Por lo tanto debemos proteger nuestro entorno de diversos factores para asi no acabar destruyendo nuestro planeta.
