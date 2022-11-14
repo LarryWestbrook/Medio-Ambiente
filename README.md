@@ -2,7 +2,7 @@
 
 # ¿Qué es la protección en el medio ambiente?
 ![image](https://user-images.githubusercontent.com/114906861/201603401-236b7891-d078-423f-b6a7-15a8047996f3.jpg)
-- [Proteccion Medioambiental] 
+- [Proteccion Medioambiental](Proteccion Medioambiental/ambiente.md) 
 
 # ¿Cuáles son los riesgos ambientales?
 ![image](https://user-images.githubusercontent.com/114906861/201603673-9679fac0-39e1-4f10-bf9a-81f64e048313.jpg)
